@@ -1,6 +1,8 @@
 # Stochastic and deterministic modeling of cholera dynamics with multiple transmission pathways, asymptomatic infection, and vaccination
 
-**CPython code for bifurcation analysis and optimal control in a cholera transmission model. Generates all figures for the manuscript.**
+**Python code for deterministic and stochastic cholera modeling. Generates all figures for the manuscript.**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera)
 
 ## Overview
 
@@ -13,7 +15,7 @@ The model integrates seven compartments (susceptible $S$, vaccinated $V$, asympt
 ## Key Features
 
 - **Deterministic simulation** – 4th order Runge-Kutta method
-- **Stochastic simulation** – Euler-Maruyama with 5,000 realizations
+- **Stochastic simulation** – Euler-Maruyama with 5,000 realizations (fixed seed 42)
 - **Bifurcation analysis** – Transcritical and Hopf bifurcations via numerical continuation
 - **Optimal control** – Forward-backward sweep with Pontryagin's minimum principle
 - **Sensitivity analysis** – PRCC with Latin Hypercube Sampling (10,000 samples)
