@@ -124,6 +124,13 @@ Click any link below to open and run the code in your browser:
 ### How to use:
 
 1. Click the badge above
+2. In Colab, go to **Runtime → Run all** (or press `Ctrl+F9`)
+3. The figure will be displayed at the bottom of the page
+4. Right-click the figure to save it as PNG
+
+### How to use:
+
+1. Click the badge above
 2. In Colab, go to **Runtime → Run all**
 3. The figure will be displayed at the bottom
 
