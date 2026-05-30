@@ -25,17 +25,21 @@ The model integrates seven compartments (susceptible $S$, vaccinated $V$, asympt
 
 ```
 ├── src/
-│   ├── deterministic.py      # Deterministic model (RK4)
-│   ├── stochastic.py         # Stochastic model (Euler-Maruyama)
-│   ├── bifurcation.py        # Numerical continuation (MATCONT interface)
-│   ├── optimal_control.py    # Forward-backward sweep
-│   ├── sensitivity.py        # PRCC with LHS
-│   └── utils.py              # Helper functions
-├── figures/                  # All manuscript figures generated here
-├── data/                     # Parameter tables and simulation outputs
-├── requirements.txt          # Python dependencies
-├── README.md                 # This file
-└── LICENSE                   # MIT License
+│ ├── Fig2.py # Deterministic vs stochastic comparison
+│ ├── Fig3.py # Extinction probability
+│ ├── Fig4.py # Vaccination intervention
+│ ├── Fig5.py # Environmental interventions
+│ ├── Fig6.py # Optimal control
+│ ├── Fig7.py # Seasonal forcing
+│ ├── Fig8.py # Sensitivity analysis
+│ ├── Fig9.py # Bifurcation diagrams
+│ ├── Fig10.py # Phase portraits
+│ └── Fig11.py # Validation (Haiti & Yemen)
+├── figures/ # All manuscript figures generated here
+├── data/ # Parameter tables and simulation outputs
+├── requirements.txt # Python dependencies
+├── README.md # This file
+└── LICENSE # MIT License
 ```
 
 ## Getting Started
