@@ -58,18 +58,16 @@ pip install -r requirements.txt
 To reproduce all figures from the manuscript:
 
 ```bash
-python src/main.py
-```
-
-To run individual components:
-
-```bash
-python src/deterministic.py   # Generate deterministic trajectories
-python src/stochastic.py      # Generate stochastic ensemble simulations
-python src/bifurcation.py     # Generate bifurcation diagrams
-python src/optimal_control.py # Generate optimal control profiles
-python src/sensitivity.py     # Generate PRCC sensitivity analysis
-```
+python src/Fig2.py
+python src/Fig3.py
+python src/Fig4.py
+python src/Fig5.py
+python src/Fig6.py
+python src/Fig7.py
+python src/Fig8.py
+python src/Fig9.py
+python src/Fig10.py
+python src/Fig11.py
 
 ## Parameters
 
