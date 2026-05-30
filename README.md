@@ -36,7 +36,6 @@ The model integrates seven compartments (susceptible $S$, vaccinated $V$, asympt
 │ ├── Fig10.py # Phase portraits
 │ └── Fig11.py # Validation (Haiti & Yemen)
 ├── figures/ # All manuscript figures generated here
-├── data/ # Parameter tables and simulation outputs
 ├── requirements.txt # Python dependencies
 ├── README.md # This file
 └── LICENSE # MIT License
