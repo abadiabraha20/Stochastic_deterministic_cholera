@@ -109,22 +109,22 @@ Click any link below to open and run the code in your browser:
 
 | Figure | Colab Link |
 |--------|------------|
-| Fig2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/Fig2.py) |
-| Fig3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/Fig3.py) |
-| Fig4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/Fig4.py) |
-| Fig5 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/Fig5.py) |
-| Fig6 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/Fig6.py) |
-| Fig7 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/Fig7.py) |
-| Fig8 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/Fig8.py) |
-| Fig9 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/Fig9.py) |
-| Fig10 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/Fig10.py) |
-| Fig11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/Fig11.py) |
+| Fig2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/src/Fig2.py) |
+| Fig3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/src/Fig3.py) |
+| Fig4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/src/Fig4.py) |
+| Fig5 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/src/Fig5.py) |
+| Fig6 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/src/Fig6.py) |
+| Fig7 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/src/Fig7.py) |
+| Fig8 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/src/Fig8.py) |
+| Fig9 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/src/Fig9.py) |
+| Fig10 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/src/Fig10.py) |
+| Fig11 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abadiabraha20/Stochastic_deterministic_cholera/blob/main/src/Fig11.py) |
 
 ### How to use:
 
 1. Click the badge above
-2. In Colab, go to **Runtime → Run all** (or press `Ctrl+F9`)
-3. The figure will be displayed at the bottom of the page
+2. In Colab, go to **Runtime → Run all**
+3. The figure will be displayed at the bottom
 4. Right-click the figure to save it as PNG
 
 ## Citation
