@@ -73,10 +73,10 @@ All parameter values used in the analysis are provided in **Table 1** of the man
 |-----------|-------------|----------------|
 | $\beta_0$ | Baseline direct transmission rate | 0.25 day$^{-1}$ |
 | $\eta$ | Environmental transmission rate | 0.001 day$^{-1}$ |
-| $\psi$ | Vaccination rate | 0.003 day$^{-1}$ |
+| $\nu_V$ | Vaccination rate | 0.003 day$^{-1}$ |
 | $\epsilon$ | Vaccine efficacy | 0.75 |
-| $\sigma$ | Treatment rate | 0.3 day$^{-1}$ |
-| $\sigma_i$ | Noise intensities | 0.05 |
+| $\gamma_T$ | Treatment rate | 0.3 day$^{-1}$ |
+| $\nu_i$ | Noise intensities | 0.05 |
 
 Complete parameter descriptions and sources are available in the manuscript.
 
@@ -93,9 +93,10 @@ This code generates all figures presented in the manuscript:
 | Fig. 5 | Environmental interventions |
 | Fig. 6 | Optimal control strategies |
 | Fig. 7 | Seasonal forcing dynamics |
-| Fig. 8 | Bifurcation diagrams (transcritical and Hopf) |
-| Fig. 9 | Phase portraits ($I$-$B$, $S$-$I$, $A$-$I$) |
-| Fig. 10 | Validation against Haiti and Yemen outbreaks |
+| Fig. 8 | Sensitivity analysis (PRCC, tornado)|
+| Fig. 9 | Bifurcation diagrams (transcritical and Hopf) |
+| Fig. 10 | Phase portraits ($I$-$B$, $S$-$I$, $A$-$I$) |
+| Fig. 11 | Validation against Haiti and Yemen outbreaks |
 
 ## Citation
 
