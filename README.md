@@ -112,7 +112,7 @@ If you use this code in your research, please cite the manuscript:
   year = {2025}
 }
 ```
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abadiabraha20/Stochastic_deterministic_cholera/main/src)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abadiabraha20/Stochastic_deterministic_cholera/main)
 
 ## Contact
 
